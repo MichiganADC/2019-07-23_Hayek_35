@@ -2,12 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-.DS_Store
 *.csv
-*.xls*
-*.doc*
-*.txt
 *.pdf
+*.doc*
+*.xls*
 *.eml
-*.Rds
-*.Rdata
+*.txt
+*Neuropath.R
